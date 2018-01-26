@@ -30,7 +30,7 @@ Or you could get leveldb from: <https://github.com/google/leveldb.git>
 
 ## Installation
 
-	$ git clone https://github.com/reeze/php-leveldb.git
+	$ git clone https://github.com/morganwu277/php-leveldb.git
 	$ cd php-leveldb
 	$ phpize
 	$ ./configure --with-leveldb=/path/to/your/leveldb-1.*.*
